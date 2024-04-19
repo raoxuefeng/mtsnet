@@ -1,5 +1,5 @@
 ## MTSNet
-This folder contains the code for **MTSNet: Joint Feature Adaptation and Enhancement for Text-Guided Multi-view Martian Terrain Segmentation**.
+This repository contains the code for **MTSNet: Joint Feature Adaptation and Enhancement for Text-Guided Multi-view Martian Terrain Segmentation**.
 
 ![Framework of MTSNet](./images/framework-model.png)
 
