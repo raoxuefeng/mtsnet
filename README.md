@@ -10,3 +10,14 @@ This repository contains the code for **MTSNet: Joint Feature Adaptation and Enh
 - segment_anything/* - files for Segment Anything Model , and we define the   **Terrain Context Attention Adapter Module (TCAM)** in segment_anything/modeling/adapter.py.
 - clip/* - files for CLIP model.
 - model_components/ema.py - code for Efficient Multi-scale Attention used in LTEN block.
+
+## Citing MTSNet
+If you use MTSNet in your research, please use the following BibTeX entry.
+```
+@inproceedings{fang2024mtsnet,
+  title={MTSNet: Joint Feature Adaptation and Enhancement for Text-Guided Multi-view Martian Terrain Segmentation},
+  author={Fang, Yang and Rao, Xuefeng and Gao, Xinbo and Li, Weisheng and Zijian, Min},
+  booktitle={ACM Multimedia 2024},
+  year={2024}
+}
+```
